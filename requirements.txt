@@ -1,6 +1,6 @@
-azure-functions
 numpy
+cmake
+dlib
 opencv-python
 face-recognition
-dlib
-cmake
+streamlit
